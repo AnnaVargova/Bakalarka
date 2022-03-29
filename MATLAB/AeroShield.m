@@ -1,5 +1,5 @@
 %   AeroShield MATLAB API.
-%
+% komentar na ukazku 
 %
 %   This code is part of the AutomationShield hardware and software
 %   ecosystem. Visit http://www.automationshield.com for more

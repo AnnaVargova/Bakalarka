@@ -8,7 +8,7 @@ platform = 'Mega2560';                                               % 'Uno', 'D
 
 disp('Testing...')                                                  % Message
 
-A = arduino('COM3',platform,'Libraries','I2C');                     % Creates arduino object
+A = arduino('COM13',platform,'Libraries','I2C');                     % Creates arduino object
 configurePin(A,'A3','AnalogInput');                                 % Reads analog value from potentiometer
 configurePin(A,'D5','DigitalOutput')
 
